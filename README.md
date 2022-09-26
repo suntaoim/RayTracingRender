@@ -1,1 +1,1 @@
-# RayTracingRender
+# RayTracingRenderer
